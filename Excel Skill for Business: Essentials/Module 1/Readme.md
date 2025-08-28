@@ -34,7 +34,6 @@ It covers the most important **Excel shortcuts, navigation tips, and basic produ
 
 ---
 
-## 🚀 Why These Notes?  
 These shortcuts and techniques make Excel work **faster and smoother**, especially when:  
 - Handling large datasets  
 - Building reports  
@@ -42,4 +41,4 @@ These shortcuts and techniques make Excel work **faster and smoother**, especial
 
 ---
 
-📖 *Part of my Module 1 learning journey in Excel for Business.*  
+
